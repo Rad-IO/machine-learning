@@ -1,0 +1,15 @@
+{
+  "models": {
+    "foo": {
+      "pb_path": "bar",
+      "labels": [
+        "baz",
+        "blah"
+      ]
+    }
+  },
+  "port": 5001,
+  "paths": [
+    "foo", "bar",
+  ]
+}
